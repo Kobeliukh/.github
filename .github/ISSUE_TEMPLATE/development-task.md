@@ -1,6 +1,6 @@
 ---
-name: Custom issue template
-about: The common issue
+name: Development task
+about: Create a standard task
 title: ''
 labels: ''
 assignees: ''
